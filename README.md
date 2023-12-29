@@ -49,7 +49,7 @@ To run the Quiz App, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone git@github.com:kcchawla85/Quiz_App.git
    ```
 
 2. **Open in Android Studio:**
@@ -64,3 +64,4 @@ To run the Quiz App, follow these steps:
 
 Contributions to the Quiz App project are currently limited to bug fixes and improvements to existing features. Adding new questions is not supported in this version.
 
+## Kindly visit the master branch to get the source code
